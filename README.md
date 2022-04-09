@@ -1,16 +1,6 @@
 # taskly
 
-A new Flutter project.
+A simple Todo Flutter application that use a [Hive](https://pub.dev/packages/hive) to store the todos in the device
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/16108354/162583356-068c247f-9d51-486e-ba8b-c1b9bd70d555.png)
+![image](https://user-images.githubusercontent.com/16108354/162583547-9a5b607e-54bb-48c8-b113-0a12485a2a5a.png)
